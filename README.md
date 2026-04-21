@@ -23,11 +23,13 @@ and highlights the resulting path on the grid.
 
 ## Project Structure
 
-```text
-src/
+.
 ├── App.java
 ├── Astar.java
 ├── Client.java
 ├── Grid.java
 ├── Node.java
-└── Ucs.java
+├── Ucs.java
+├── README.md
+├── LICENSE
+└── .gitignore
