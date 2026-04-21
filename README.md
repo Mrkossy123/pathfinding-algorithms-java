@@ -23,7 +23,7 @@ and highlights the resulting path on the grid.
 
 ## Project Structure
 
-.
+```text
 ├── App.java
 ├── Astar.java
 ├── Client.java
